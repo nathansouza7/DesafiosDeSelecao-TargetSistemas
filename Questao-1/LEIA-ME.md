@@ -1,0 +1,2 @@
+O código realiza um laço de repetição enquanto a variável K for menor que INDICE. Toda vez que o código é executado novamente o valor de K é incrementado em 1 e SOMA é atualizada com a soma do valor anterior de SOMA e o valor atual de K.
+O laço chega ao fim ao atingir o INDICE que é 13, no final o valor da variável SOMA é 91 porque será somado todos os números de 1 a 13.

@@ -1,0 +1,1 @@
+Desafios de lógica para a seleção de estágio na empresa Target Sistemas.
